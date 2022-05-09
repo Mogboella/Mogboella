@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mogboella
-- 👀 I’m interested in Books
-- 🌱 I’m currently learning React Typescript
+- 👀 I’m interested in learning the Violin
+- 🌱 I’m currently learning Vue
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
