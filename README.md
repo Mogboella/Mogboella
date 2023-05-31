@@ -2,7 +2,7 @@
 #### I am a Software Engineer
 I am a software engineer skilled in full-stack development and AI platform engineering. I build applications and infrastructure that seamlessly integrate AI models, ensuring optimal performance and delivering efficient solutions.
 
-Skills: VUE JS / PYTHON / GOLANG / JAVASCRIPT
+![My Skills](https://skillicons.dev/icons?i=py,git,github,vue,vite,ts,js,postman,nodejs,express,java)
 
 - 🔭 I’m currently working on this page 
 - 🌱 I’m currently learning Japanese 
