@@ -1,6 +1,14 @@
-![Logo]()
-### Hi there 👋, My name is Nkem Mogbo
-#### I am a software engineer skilled in full-stack development and AI platform engineering. I build applications and infrastructure that seamlessly integrate AI models, ensuring optimal performance and delivering efficient solutions.
+<p align="center">
+  <img src="" width="120" />  
+  <h1 align="center"><a href="Website">I'm Nkem Mogbo</a></h1>
+  <p align="center"> Software Developer, AI Platform engineer</p>
+</p>
+
+<p align="center">
+  <a href="https://codewonders.dev">Portfolio</a> | 
+  <a href="https://twitter.com/code_wonders">Twitter</a> |
+  <a href="https://linkedin.com/in/codewonders">LinkedIn</a>
+</p>
 
 #### Skills
 ![My Skills](https://skillicons.dev/icons?i=py,git,github,vue,vite,ts,js,postman,nodejs,express,java,aws,kubernetes,docker&perline=7)
