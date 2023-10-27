@@ -6,14 +6,16 @@
 
 <p align="center">
   <a href="Website">Portfolio</a> | 
-  <a href="https://twitter.com/">Twitter</a> |
-  <a href="https://linkedin.com/">LinkedIn</a>
+  <a href="[https://twitter.com/](https://x.com/ellatheoffice?s=21&t=BMdb0B_nuVz3JkIfgcV4aQ)">Twitter</a> |
+  <a href="[https://linkedin.com/](https://www.linkedin.com/in/mogbonkem2001)">LinkedIn</a>
 </p>
 
+### Some Facts About Me
+- 🔭 I hold a BsC in Software Engineering from Loyola University Chicago
+- 😄 I published a mystery novel when I was 12
+- 🌱 I’m currently learning Japanese
+
 📫 How to reach me: nmogbo2001@gmail.com
-- 🔭 I’m currently working on this page
-- 😄 Pronouns: She/Her 
-- 🌱 I’m currently learning Japanese 
 
 #### Skills
 ![My Skills](https://skillicons.dev/icons?i=py,git,github,vue,vite,ts,js,postman,nodejs,express,java,aws,kubernetes,docker&perline=7)
